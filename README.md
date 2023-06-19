@@ -12,11 +12,15 @@ Design and develop a PCB board for any specific application.
 ## STEP 5: Attach the schematic diagram, PCB layout, CopperCAM output, GCODE and image of the manufactured PCB with the submission.
 
 ### Schematic Diagram
-:
-![How-to-Design-PCB-using-Eagle-Image-1](https://github.com/Balajibal/PCB-MiniProject/assets/75234946/94bf8844-822c-4838-b797-00734b4fbb6e)
+![How-to-Design-PCB-using-Eagle-Image-10](https://github.com/Balajibal/PCB-MiniProject/assets/75234946/f61804de-e29b-43e8-8fd4-5312508c2ba7)
+
 
 ###  PCB layout :
 ![How-to-Design-PCB-using-Eagle-Image-17](https://github.com/Balajibal/PCB-MiniProject/assets/75234946/c426ccda-5750-47fe-86f0-6d9944c5db70)
+
+###  PCB Board :
+![How-to-Design-PCB-using-Eagle-Image-1](https://github.com/Balajibal/PCB-MiniProject/assets/75234946/4b15cd4d-58aa-49b3-a95a-fd082515e4c0)
+
 
 
 
