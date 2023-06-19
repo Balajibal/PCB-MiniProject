@@ -1,15 +1,15 @@
 ## AIM :
 Design and develop a PCB board for any specific application.
 ## Algorithm:
-## STEP 1 :Draw a neat schematic by following the standard rules.
+STEP 1 :Draw a neat schematic by following the standard rules.
 
-## STEP 2: Develop the PCB layout.
+STEP 2: Develop the PCB layout.
 
-## STEP 3: Generate GCODE using CopperCAM
+STEP 3: Generate GCODE using CopperCAM
 
-## STEP 4:Manufacture the PCB board using PCB prototyping machine.
+STEP 4:Manufacture the PCB board using PCB prototyping machine.
 
-## STEP 5: Attach the schematic diagram, PCB layout, CopperCAM output, GCODE and image of the manufactured PCB with the submission.
+STEP 5: Attach the schematic diagram, PCB layout, CopperCAM output, GCODE and image of the manufactured PCB with the submission.
 
 ### Schematic Diagram
 ![How-to-Design-PCB-using-Eagle-Image-10](https://github.com/Balajibal/PCB-MiniProject/assets/75234946/f61804de-e29b-43e8-8fd4-5312508c2ba7)
