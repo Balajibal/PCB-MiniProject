@@ -20,12 +20,12 @@ STEP 5: Attach the schematic diagram, PCB layout, CopperCAM output, GCODE and im
 
 ###  PCB Board :
 ![How-to-Design-PCB-using-Eagle-Image-1](https://github.com/Balajibal/PCB-MiniProject/assets/75234946/4b15cd4d-58aa-49b3-a95a-fd082515e4c0)
-
-
+<br><br></br></br>
 
 
 
 ### GCODE:
+```python
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
 ( C:\COPPERCAM2\CopperCAM.iso created 14/06/2023 at 09:59 )
@@ -104,8 +104,7 @@ G01 X32.589 Y34.563
 G01 X32.549 Y34.429
 G01 X32.535 Y34.29
 G01 X32.549 Y34.151****
-
-
+```
 
 
 
